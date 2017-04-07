@@ -1,4 +1,5 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Yuanfudao">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <JavaCodeStyleSettings>
     <option name="ANNOTATION_PARAMETER_WRAP" value="5" />
   </JavaCodeStyleSettings>
