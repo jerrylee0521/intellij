@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="pushkeys" type="PLAIN_TEXT" />
+      <mapping pattern="friend-requests" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="todo" type="PLAIN_TEXT" />
+      <mapping ext="lex" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
