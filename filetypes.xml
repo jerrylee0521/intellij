@@ -6,8 +6,9 @@
       <mapping pattern="episode-query-condition" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
-      <mapping ext="lex" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="mem" type="PLAIN_TEXT" />
+      <mapping ext="lex" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
