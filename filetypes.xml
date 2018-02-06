@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitignore.global" type="Git file" />
       <mapping pattern="pushkeys" type="PLAIN_TEXT" />
       <mapping pattern="friend-requests" type="PLAIN_TEXT" />
       <mapping pattern="episode-query-condition" type="PLAIN_TEXT" />
